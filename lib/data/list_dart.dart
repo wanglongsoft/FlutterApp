@@ -1,0 +1,36 @@
+
+List listData = [
+  {"image" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+];
+
+List cardData = [
+  {"image" : "images/card_src/card_image_1.jpeg", "headimage" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_2.jpeg", "headimage" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_3.jpeg", "headimage" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_4.jpeg", "headimage" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_5.jpeg", "headimage" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_6.jpeg", "headimage" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_7.jpeg", "headimage" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_8.jpeg", "headimage" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_1.jpeg", "headimage" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_2.jpeg", "headimage" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_3.jpeg", "headimage" : "images/anime/list_picture_1.jpeg", "title" : "刘德华", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_8.jpeg", "headimage" : "images/anime/list_picture_2.jpeg", "title" : "陈奕迅", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_7.jpeg", "headimage" : "images/anime/list_picture_3.jpeg", "title" : "张学友", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_6.jpeg", "headimage" : "images/anime/list_picture_4.jpeg", "title" : "王菲", "subtitle" : "歌手"},
+  {"image" : "images/card_src/card_image_5.jpeg", "headimage" : "images/anime/list_picture_5.jpeg", "title" : "刘欢", "subtitle" : "歌手"},
+];
